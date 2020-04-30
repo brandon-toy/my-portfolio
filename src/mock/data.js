@@ -77,7 +77,7 @@ export const footerData = {
       url: 'https://github.com/brandon-toy',
     },
   ],
-  sourceCodeUrl: 'https://github.com/brandon-toy',
+  sourceCodeUrl: 'https://github.com/brandon-toy/my-portfolio',
 };
 
 // Github start/fork buttons
