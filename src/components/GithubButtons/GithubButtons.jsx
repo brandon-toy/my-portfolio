@@ -1,29 +1,22 @@
-import React from 'react';
-import GitHubButton from 'react-github-btn';
+import React, { useContext } from 'react';
+import PortfolioContext from '../../context/context';
 
-const GithubButton = () => (
-  <>
-    <GitHubButton
-      className="github-button"
-      href="https://github.com/cobidev/gatsby-simplefolio/fork"
-      data-icon="octicon-repo-forked"
-      data-size="large"
-      data-show-count="true"
-      aria-label="Fork cobidev/gatsby-simplefolio on GitHub"
-    >
-      Fork
-    </GitHubButton>
-    <GitHubButton
-      className="github-button"
-      href="https://github.com/cobidev/gatsby-simplefolio"
-      data-icon="octicon-star"
-      data-size="large"
-      data-show-count="true"
-      aria-label="Star cobidev/gatsby-simplefolio on GitHub"
-    >
-      Star
-    </GitHubButton>
-  </>
-);
+const GithubButton = () => {
+  const { footer } = useContext(PortfolioContext);
+  const { sourceCodeUrl } = footer;
+  console.log(sourceCodeUrl);
+  return (
+    <>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        className="cta-btn cta-btn--resume"
+        href={sourceCodeUrl || '#!'}
+      >
+        Source Code
+      </a>
+    </>
+  );
+};
 
 export default GithubButton;
