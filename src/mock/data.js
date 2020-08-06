@@ -21,10 +21,10 @@ export const aboutData = {
   paragraphOne:
     'I am Brandon Toy and I am currently studying Computer Science at the University of Victoria.',
   paragraphTwo:
-    'I am currently looking for fall 2020 internships/co-ops. I live in Vancouver BC, and I am open for all positions Software related.',
+    'I am currently coming off a co-op and I am planning to go back to school for Fall 2020 to finish my third year.',
   paragraphThree:
-    'In my free time, I enjoy reading, biking, hiking, learning new technologies, and playing video games.',
-  resume: 'https://drive.google.com/file/d/1d1M2xumiZYjRn_elyBGhsXE_6VYKf2xx/view?usp=sharing', // if no resume, the button will not show up
+    'In my free time, I enjoy reading, learning Japanese, biking, hiking, learning new technologies, and playing video games.',
+  resume: 'https://drive.google.com/file/d/14M7eGTvwngeuTcZZzIZo2TeMoAR_PrWd/view?usp=sharing', // if no resume, the button will not show up
 };
 export const projectsData = [
   {
