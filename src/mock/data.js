@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I am Brandon Toy and I am currently studying Computer Science at the University of Victoria.',
   paragraphTwo:
-    'I am currently coming on co-op and I am planning on going back to school in September 2021 to finish my fourth year.',
+    'I am currently in school from September - April 2022 to finish my fourth year and graduate!',
   paragraphThree:
     'In my free time, I enjoy reading, learning Japanese, biking, hiking, learning new technologies, and playing video games.',
 //   resume: 'https://drive.google.com/file/d/1veomi3rTl7EbEnLBzKqLXG_SqPHAu8tJ/view?usp=sharing', // if no resume, the button will not show up
