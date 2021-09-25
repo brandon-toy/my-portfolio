@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I am currently in school from September - April 2022 to finish my fourth year and graduate!',
   paragraphThree:
-    'In my free time, I enjoy reading, learning Japanese, biking, hiking, learning new technologies, and playing video games.',
+    'In my free time, I enjoy reading, biking, hiking, learning new technologies, and playing video games.',
 //   resume: 'https://drive.google.com/file/d/1veomi3rTl7EbEnLBzKqLXG_SqPHAu8tJ/view?usp=sharing', // if no resume, the button will not show up
 };
 export const projectsData = [
