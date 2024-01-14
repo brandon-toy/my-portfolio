@@ -1,6 +1,6 @@
 ## This is my personnal portfolio/website created for fun and utilizing skills learned from my co-op and random side projects
 
-### Now live! [brandontoy.me](https://brandontoy.me)
+### Now live! [https://brandontoy.ca](https://brandontoy.ca/)
 
 ### Technologies used
 
